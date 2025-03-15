@@ -3,5 +3,5 @@
 </p>
 
 ```
-rm -f install* && wget -q https://github.com/sansoe2022/websocket/raw/master/install && chmod +x install && ./install
+rm -f install* && wget -q https://github.com/testvpnkuy/websocket/raw/master/install && chmod +x install && ./install
 ```
